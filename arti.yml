@@ -1,3 +1,5 @@
-echo "alpha.html"
+run:
+echo 'alpha'    > alpha.html
+
 
 
